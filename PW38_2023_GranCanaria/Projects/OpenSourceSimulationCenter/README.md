@@ -15,7 +15,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Aliou Barry 
 - Cheikh Sidi Ethmane 
 - Edmée Clémence Mansilla 
-- Estelle Tcheple Tuo  
+- Estelle Tcheple Tuo 
+- JAvier Pascau (UC3M)
+- Juan de León (HGUGM) 
 
 # Project Description
 
